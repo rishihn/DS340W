@@ -18,5 +18,7 @@ This folder includes our novelty and contribution to this work, where we impleme
 - Weighted_Ensemble_vs_XGBoost.ipynb: The finalized code including our ensemble approach along with the custom weights assigned to each model. This file also contains the results comparison and visualization comparison.
 
 
-## How to Run
-1. 
+## How to Run Our Contribution
+1. Go to the "Datasets" folder and download "final.csv".
+2. Go to the "Our Code" folder and download "Weighted_Ensemble_vs_XGBoost.ipynb".
+3. Run the "Weighted_Ensemble_vs_XGBoost.ipynb" file to load our results and visualizations.  
